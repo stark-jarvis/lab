@@ -1,0 +1,16 @@
+*.DS_Store
+*.db
+*.svn
+*.swp
+*.swn
+*.swo
+*.bat
+.idea/*
+.history/*
+.babelrc
+.editorconfig
+build/*
+node_modules
+test
+!.eslintrc.js
+.favorites.json
