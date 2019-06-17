@@ -13,8 +13,6 @@
   "author": "weiko",
   "license": "ISC",
   "devDependencies": {
-    "git-pre-hooks": "^1.2.1",
-    "githooks": "^1.1.1",
-    "pre-push": "^0.1.1"
+    "git-pre-hooks": "^1.2.1"
   }
 }
